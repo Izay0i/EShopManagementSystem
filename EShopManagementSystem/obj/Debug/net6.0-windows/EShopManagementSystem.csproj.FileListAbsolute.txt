@@ -1,0 +1,17 @@
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\bin\Debug\net6.0-windows\EShopManagementSystem.exe
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\bin\Debug\net6.0-windows\EShopManagementSystem.deps.json
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\bin\Debug\net6.0-windows\EShopManagementSystem.runtimeconfig.json
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\bin\Debug\net6.0-windows\EShopManagementSystem.dll
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\bin\Debug\net6.0-windows\EShopManagementSystem.pdb
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.csproj.AssemblyReference.cache
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.Form1.resources
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.csproj.GenerateResource.cache
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.AssemblyInfoInputs.cache
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.AssemblyInfo.cs
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.dll
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\refint\EShopManagementSystem.dll
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.pdb
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\EShopManagementSystem.genruntimeconfig.cache
+D:\Files\VisualStudioProjects\EShopManagementSystem\EShopManagementSystem\obj\Debug\net6.0-windows\ref\EShopManagementSystem.dll
