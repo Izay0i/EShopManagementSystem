@@ -15,7 +15,12 @@ namespace EShopManagementSystem.DTO
         public String Address { get; set; }
 
         public Customer() {}
-        public Customer(string id, string name, string phoneNumber, string email, string address)
+        public Customer(
+            string id, 
+            string name, 
+            string phoneNumber, 
+            string email, 
+            string address)
         {
             Id = id;
             Name = name;

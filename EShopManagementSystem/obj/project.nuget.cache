@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Fq6hWX5rXUYYg5uCD4X0E6Y2bkgJK8N80ltNg4128Brb3qiSyUqjqr+H+TiVGhfRhr8Aji4bff75ymi+cynBqA==",
+  "dgSpecHash": "5JKDDyBhGG6jdyuHVthQcZSoaoS7SwphTGs9L5FESrrqdjt6iRwbRN/pSDFXLaABOHx9FzbXMiU2Y0fuzkwPsA==",
   "success": true,
   "projectFilePath": "D:\\Files\\VisualStudioProjects\\EShopManagementSystem\\EShopManagementSystem\\EShopManagementSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

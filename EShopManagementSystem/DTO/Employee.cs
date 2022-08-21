@@ -16,7 +16,12 @@ namespace EShopManagementSystem.DTO
 
         public Employee() {}
 
-        public Employee(string id, string name, string email, string birthdate, string gender)
+        public Employee(
+            string id, 
+            string name, 
+            string email, 
+            string birthdate, 
+            string gender)
         {
             Id = id;
             Name = name;

@@ -20,7 +20,16 @@ namespace EShopManagementSystem.DTO
 
         public Product() {}
 
-        public Product(string id, string name, string description, string origin, string manufacturedDate, long quantity, double price, long insuranceDuration, float discountPercentage)
+        public Product(
+            string id, 
+            string name, 
+            string description, 
+            string origin, 
+            string manufacturedDate, 
+            long quantity, 
+            double price, 
+            long insuranceDuration, 
+            float discountPercentage)
         {
             Id = id;
             Name = name;

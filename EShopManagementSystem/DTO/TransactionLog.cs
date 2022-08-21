@@ -18,11 +18,20 @@ namespace EShopManagementSystem.DTO
         public List<long> ProductQuantities { get; set; }
         public List<double> ProductPrices { get; set; }
         public string TransactionDate { get; set; }
-        public string ReprintedDate { get; set; }
 
         public TransactionLog() {}
 
-        public TransactionLog(string transactionId, string employeeId, string customerId, string employeeName, string customerName, List<string> productIds, List<string> productNames, List<long> productQuantities, List<double> productPrices, string transactionDate, string reprintedDate)
+        public TransactionLog(
+            string transactionId, 
+            string employeeId, 
+            string customerId, 
+            string employeeName, 
+            string customerName, 
+            List<string> productIds, 
+            List<string> productNames, 
+            List<long> productQuantities, 
+            List<double> productPrices, 
+            string transactionDate)
         {
             TransactionId = transactionId;
             EmployeeId = employeeId;
@@ -34,7 +43,6 @@ namespace EShopManagementSystem.DTO
             ProductQuantities = productQuantities;
             ProductPrices = productPrices;
             TransactionDate = transactionDate;
-            ReprintedDate = reprintedDate;
         }
     }
 }
